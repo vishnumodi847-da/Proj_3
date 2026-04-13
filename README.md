@@ -64,7 +64,7 @@ Subjects are stored using a set to avoid duplicates
 Example structure:
 
 {
-  "101": {
+  student_data: {
     "name": "Vishnu",
     "age": 20,
     "grade": "A",
